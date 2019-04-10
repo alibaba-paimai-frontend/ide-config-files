@@ -1,0 +1,15 @@
+{
+  "name": "ide-test-btn",
+  "debugName": "test-btn",
+  "className": "TestBtn",
+  "repo": "https://github.com/alibaba-paimai-frontend/ide-test-tn.git",
+  "idPrefix": "stb",
+  "version": "0.1.0",
+  "description": "xxx",
+  "author": "boycgit",
+  "libName": "ideTestBtn",
+  "hasSubComponents": false,
+  "externals": [
+    { "ide-code-editor": "0.x.x" }
+  ]
+}

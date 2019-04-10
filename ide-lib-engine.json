@@ -1,0 +1,12 @@
+{
+    "name": "ide-lib-engine",
+    "debugName": "lib-engine",
+    "className": "LibEngine",
+    "homepage": "https://alibaba-paimai-frontend.github.io/ide-lib-engine",
+    "repo": "https://github.com/alibaba-paimai-frontend/ide-lib-engine.git",
+    "idPrefix": "sle",
+    "version": "0.1.0",
+    "description": "[lib] engine for ide",
+    "author": "boycgit",
+    "libName": "ideLibEngine"
+}

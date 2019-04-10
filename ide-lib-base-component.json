@@ -1,0 +1,11 @@
+{
+  "name": "ide-lib-base-component",
+  "debugName": "lib-base-component",
+  "className": "BaseComponent",
+  "repo": "https://github.com/alibaba-paimai-frontend/ide-lib-base-component.git",
+  "idPrefix": "slbc",
+  "version": "0.1.0",
+  "description": "base component for ide",
+  "author": "boycgit",
+  "libName": "ideBaseComponent"
+}

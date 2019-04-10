@@ -1,0 +1,14 @@
+{
+  "name": "ide-function-sets",
+  "debugName": "function-sets",
+  "className": "FunctionSets",
+  "repo": "https://github.com/alibaba-paimai-frontend/ide-function-sets.git",
+  "homepage": "https://alibaba-paimai-frontend.github.io/ide-function-sets.git",
+  "idPrefix": "sfs",
+  "version": "0.1.0",
+  "description": "function sets for ide",
+  "author": "boycgit",
+  "libName": "ideFunctionSets",
+  "hasSubComponents": true,
+  "externals": ["ide-code-editor"]
+}

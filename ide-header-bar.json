@@ -1,0 +1,11 @@
+{
+  "name": "ide-header-bar",
+  "debugName": "header-bar",
+  "className": "HeaderBar",
+  "repo": "https://github.com/alibaba-paimai-frontend/ide-header-bar.git",
+  "idPrefix": "shb",
+  "version": "0.1.0",
+  "description": "ide header bar",
+  "author": "boycgit",
+  "libName": "ideHeaderBar"
+}

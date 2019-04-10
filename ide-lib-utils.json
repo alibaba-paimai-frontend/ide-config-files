@@ -1,0 +1,11 @@
+{
+    "name": "ide-lib-utils",
+    "debugName": "lib-utils",
+    "className": "LibUtils",
+    "repo": "https://github.com/alibaba-paimai-frontend/ide-lib-utils.git",
+    "idPrefix": "slu",
+    "version": "0.1.0",
+    "description": "[lib] utils for ide",
+    "author": "boycgit",
+    "libName": "ideLibUtils"
+}

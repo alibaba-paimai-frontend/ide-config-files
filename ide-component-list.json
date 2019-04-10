@@ -1,0 +1,11 @@
+{
+  "name": "ide-component-list",
+  "debugName": "component-list",
+  "className": "ComponentList",
+  "repo": "https://github.com/alibaba-paimai-frontend/ide-component-list.git",
+  "idPrefix": "scl",
+  "version": "0.1.0",
+  "description": "ide component list selection",
+  "author": "boycgit",
+  "libName": "ideComponentList"
+}
