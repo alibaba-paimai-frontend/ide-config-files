@@ -1,0 +1,12 @@
+{
+    "name": "ide-props-editor",
+    "debugName": "props-editor",
+    "className": "PropsEditor",
+    "repo": "git@github.com:alibaba-paimai-frontend/ide-props-editor.git",
+    "homepage": "https://github.com/alibaba-paimai-frontend/ide-props-editor",
+    "idPrefix": "ssp",
+    "version": "0.1.0",
+    "description": "属性编辑器",
+    "author": "minghe",
+    "libName": "idePropsEditor"
+}
