@@ -1,0 +1,15 @@
+{
+    "name": "ide-styles-editor",
+    "debugName": "styles-editor",
+    "className": "StylesEditor",
+    "repo": "git@github.com:one-gourd/ide-styles-editor.git",
+    "homepage": "https://one-gourd.github.io/ide-styles-editor",
+    "idPrefix": "sse",
+    "version": "0.1.0",
+    "description": "样式编辑器",
+    "author": "minghe",
+    "libName": "ideStylesEditor",
+    "externals": [
+        "ide-code-editor"
+    ]
+}
