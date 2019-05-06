@@ -2,7 +2,7 @@
     "name": "ide-code-editor",
     "debugName": "code-editor",
     "className": "CodeEditor",
-    "repo": "https://github.com/alibaba-paimai-frontend/ide-code-editor.git",
+    "repo": "https://github.com/one-gourd/ide-code-editor.git",
     "idPrefix": "sce",
     "version": "0.1.0",
     "description": "ide code editor",

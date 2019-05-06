@@ -2,7 +2,7 @@
   "name": "ide-test-btn",
   "debugName": "test-btn",
   "className": "TestBtn",
-  "repo": "https://github.com/alibaba-paimai-frontend/ide-test-tn.git",
+  "repo": "https://github.com/one-gourd/ide-test-tn.git",
   "idPrefix": "stb",
   "version": "0.1.0",
   "description": "xxx",

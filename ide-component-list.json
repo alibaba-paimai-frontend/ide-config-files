@@ -2,7 +2,7 @@
   "name": "ide-component-list",
   "debugName": "component-list",
   "className": "ComponentList",
-  "repo": "https://github.com/alibaba-paimai-frontend/ide-component-list.git",
+  "repo": "https://github.com/one-gourd/ide-component-list.git",
   "idPrefix": "scl",
   "version": "0.1.0",
   "description": "ide component list selection",

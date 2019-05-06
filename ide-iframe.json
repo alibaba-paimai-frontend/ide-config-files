@@ -2,7 +2,7 @@
   "name": "ide-iframe",
   "debugName": "iframe",
   "className": "IFrame",
-  "repo": "https://github.com/alibaba-paimai-frontend/ide-iframe.git",
+  "repo": "https://github.com/one-gourd/ide-iframe.git",
   "idPrefix": "sif",
   "version": "0.1.0",
   "description": "ide iframe",
