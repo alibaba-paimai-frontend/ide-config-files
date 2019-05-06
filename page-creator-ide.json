@@ -3,6 +3,7 @@
   "debugName": "page-creator",
   "className": "PageCreator",
   "repo": "https://github.com/one-gourd/page-creator-ide.git",
+  "homepage": "http://one-gourd.github.io/page-creator-ide",
   "idPrefix": "idepc",
   "version": "0.1.1",
   "description": "page visual creator - 页面可视化搭建平台",
