@@ -3,9 +3,11 @@
   "debugName": "component-list",
   "className": "ComponentList",
   "repo": "https://github.com/one-gourd/ide-component-list.git",
+  "homepage": "http://one-gourd.github.io/ide-component-list",
   "idPrefix": "scl",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "ide component list selection",
   "author": "boycgit",
+  "hasSubComponents": false,
   "libName": "ideComponentList"
 }
