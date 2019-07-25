@@ -3,9 +3,11 @@
   "debugName": "header-bar",
   "className": "HeaderBar",
   "repo": "https://github.com/one-gourd/ide-header-bar.git",
+  "homepage": "https://one-gourd.github.io/ide-header-bar",
   "idPrefix": "shb",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "ide header bar",
+  "hasSubComponents": false,
   "author": "boycgit",
   "libName": "ideHeaderBar"
 }

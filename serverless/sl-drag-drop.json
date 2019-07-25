@@ -1,0 +1,13 @@
+{
+    "name": "sl-drag-drop",
+    "debugName": "drag-drop",
+    "className": "DragDrop",
+    "repo": "https://github.com/one-gourd/sl-drag-drop.git",
+    "homepage": "https://one-gourd.github.io/sl-drag-drop",
+    "idPrefix": "ldd",
+    "version": "0.1.0",
+    "description": "composer drag panel",
+    "hasSubComponents": false,
+    "author": "boycgit",
+    "libName": "slDragDrop"
+}

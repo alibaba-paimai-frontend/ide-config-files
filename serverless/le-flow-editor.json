@@ -1,0 +1,14 @@
+{
+    "name": "le-flow-editor",
+    "debugName": "flow-editor",
+    "className": "FlowEditor",
+    "repo": "http://gitlab.alibaba-inc.com/lastep/le-flow-editor.git",
+    "homepage": "https://lastep.gitlab.io/le-flow-editor",
+    "templater": "https://gitlab.alibaba-inc.com/lastep/sls-tpl-neatly.git",
+    "idPrefix": "lfe",
+    "version": "0.1.0",
+    "description": "flow chart editor with visualization",
+    "hasSubComponents": false,
+    "author": "bocheng.zbc",
+    "libName": "leFlowEditor"
+}

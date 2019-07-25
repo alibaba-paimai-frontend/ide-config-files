@@ -1,0 +1,14 @@
+{
+  "name": "ide-component-tree",
+  "debugName": "component-tree",
+  "className": "ComponentTree",
+  "repo": "https://github.com/one-gourd/ide-component-tree.git",
+  "homepage": "https://one-gourd.github.io/ide-component-tree",
+  "idPrefix": "sct",
+  "version": "0.1.3",
+  "description": "component tree for ide",
+  "author": "boycgit",
+  "libName": "ideComponentTree",
+  "hasSubComponents": true,
+  "externals": ["ss-tree"]
+}

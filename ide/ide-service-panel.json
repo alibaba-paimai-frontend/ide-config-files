@@ -1,0 +1,13 @@
+{
+    "name": "ide-service-panel",
+    "debugName": "service-panel",
+    "className": "ServicePanel",
+    "repo": "https://github.com/one-gourd/ide-service-panel.git",
+    "homepage": "https://one-gourd.github.io/ide-service-panel",
+    "idPrefix": "ssp",
+    "version": "0.1.0",
+    "description": "ide service panel",
+    "hasSubComponents": false,
+    "author": "boycgit",
+    "libName": "ideServicePanel"
+}

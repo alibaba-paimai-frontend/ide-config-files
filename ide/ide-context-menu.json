@@ -1,0 +1,12 @@
+{
+  "name": "ide-context-menu",
+  "debugName": "context-menu",
+  "className": "ContextMenu",
+  "repo": "https://github.com/one-gourd/ide-context-menu.git",
+  "homepage": "https://one-gourd.github.io/ide-context-menu",
+  "idPrefix": "scm",
+  "version": "0.1.2",
+  "description": "context menu for ide",
+  "author": "boycgit",
+  "libName": "ideContextMenu"
+}
